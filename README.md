@@ -15,7 +15,7 @@
 <!-- Hiệu ứng gõ chữ động (Typing Animation) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00599C¢er=true&vCenter=true&width=600&lines=Competitive+Programmer+%E2%9A%94%EF%B8%8F;AI%2FData+Builder+%F0%9F%A7%A0;Reverse+Engineering+Enthusiast+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffffff¢er=true&vCenter=true&width=600&lines=Competitive+Programmer+%E2%9A%94%EF%B8%8F;AI%2FData+Builder+%F0%9F%A7%A0;Reverse+Engineering+Enthusiast+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
