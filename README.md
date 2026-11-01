@@ -26,7 +26,7 @@
 </p>
 
 <div align="center">
-  <img src="coding.gif" alt="Coding Boy GIF" height="150" />
+  <img src="coding (1).gif" alt="Coding Boy GIF" height="150" />
      
   <img src="spinning.gif" alt="MarisaOJ Pending" height="150" />
 </div>
