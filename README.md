@@ -13,9 +13,9 @@
 <h1 align="center">Hi there, I'm Lê Hải Thiên Phúc (xRay) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="35" height="35" /></h1>
 
 <!-- Hiệu ứng gõ chữ động (Typing Animation) -->
-<p align="center">
+<<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ffffff¢er=true&vCenter=true&width=600&lines=Competitive+Programmer+%E2%9A%94%EF%B8%8F;AI%2FData+Builder+%F0%9F%A7%A0;Reverse+Engineering+Enthusiast+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=600&size=22&pause=1000&color=ffffff&width=600&lines=Competitive+Programmer+%E2%9A%94%EF%B8%8F;AI%2FData+Builder+%F0%9F%A7%A0;Reverse+Engineering+Enthusiast+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 ### 👨‍💻 Về mình (About Me)
 - 🎓 Học sinh tại **THPT Bà Rịa** | Trú ngụ tại Việt Nam 🇻🇳.
 - 💻 Chuyên cày **Lập trình thi đấu (CP)** bằng `C++`. Thích ép kiểu `#define int long long`, chơi hệ BDSM và tối ưu hóa thuật toán (DP, Graph).
-- 🤖 Đam mê xây dựng **Agentic AI pipelines**, **Text-to-SQL** bằng `Python` và đặc biệt hứng thú với **AI Thị Giác** (Computer Vision). Từng chinh chiến tại vòng chung kết **AI Challenge TP.HCM** và VAIO quen thuộc.
+- 🤖 Đam mê xây dựng **Agentic AI pipelines**, **Text-to-SQL** bằng `Python` và đặc biệt hứng thú với **AI Thị Giác** (Computer Vision). Từng chinh chiến tại vòng chung kết **AI Challenge TP.HCM** và VAIO.
 - 🕵️‍♂️ Rảnh rỗi thích vọc vạch **Reverse Engineering** dịch code mã độc và viết batch script test phần cứng.
 
 ### 🛠️ Tech Stack & Tools
